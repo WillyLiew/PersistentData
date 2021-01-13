@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Persistent Data</string>
+    <string name="inputText">Type your message here</string>
+    <string name="outputText">Display</string>
+    <string name="com.example.persistentdata.preferenceString">Hello world</string>
+
+</resources>
